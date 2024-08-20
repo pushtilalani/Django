@@ -1,0 +1,13 @@
+Folder PATH listing for volume New Volume
+Volume serial number is E2EF-D4E8
+D:.
+¦   manage.py
+¦   tree.txt
+¦   
++---myproject
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+        
